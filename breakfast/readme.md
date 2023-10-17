@@ -1,4 +1,4 @@
-# Mushroom Omelete With Chives
+# Mushroom Omelete With Chives 🍄 🍳 🥚
 https://cooking.nytimes.com/recipes/1012934-mushroom-omelet-with-chives
 
 ## Servings: 2
