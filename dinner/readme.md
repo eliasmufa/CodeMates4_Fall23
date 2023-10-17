@@ -24,5 +24,6 @@ pan
 
 ### Notes:
 Be careful not to burn yourself!
+Taste best with a cup of coffee!
 
 ### Codemates #
