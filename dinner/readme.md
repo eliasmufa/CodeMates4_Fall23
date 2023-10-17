@@ -12,9 +12,9 @@ strawberry 🍓
 bacon 🥓
 
 ## Equipment needed:
-bowl
-whisk
-pan
+bowl 🥣
+whisk 🧑‍🍳
+pan 👨‍🍳
 
 ## Steps for preparation:
 1. Mix pancake mix with milk in a bowl
@@ -26,4 +26,6 @@ pan
 Be careful not to burn yourself!
 Taste best with a cup of coffee!
 
+
 ### Codemates #
+@amarisskim1 @frankzhang95 @nyhdo93 @eliasmufa
