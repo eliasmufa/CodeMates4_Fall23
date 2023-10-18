@@ -43,6 +43,8 @@ Spread half the mushrooms down the middle of the eggs. Top with half the cheese.
 ### Notes:
 Advance preparation: You can make the mushroom filling (step 1) several hours ahead. It will keep for a day or two in the refrigerator. Reheat before making the omelets. Martha Rose Shulman can be reached at martha-rose-shulman.com.
 
+The earliest omelettes are believed to have originated in ancient Persia.
+
 
 
 ### Codemates #
