@@ -27,6 +27,7 @@ Be careful not to burn yourself!
 Taste best with a cup of coffee!
 
 600 BC - The first recorded mention of pancakes dates back to ancient Greece and comes from a poet who described warm pancakes in one of his writings
+The word "pancake" first appeared in English in the 15th century
 
 ### Codemates #
 @amarisskim1 @frankzhang95 @nyhdo93 @eliasmufa
