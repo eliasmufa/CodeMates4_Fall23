@@ -43,6 +43,8 @@ Spread half the mushrooms down the middle of the eggs. Top with half the cheese.
 ### Notes:
 Advance preparation: You can make the mushroom filling (step 1) several hours ahead. It will keep for a day or two in the refrigerator. Reheat before making the omelets. Martha Rose Shulman can be reached at martha-rose-shulman.com.
 
+The word omelette is French, from a root meaning "thin, small plate," a reference to an omelette's flat shape. Historians have traced the omelette back to ancient Persia, where cooks made savory dishes using beaten eggs.
+
 
 
 ### Codemates #
